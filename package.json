@@ -1,0 +1,26 @@
+{
+  "name": "rsch-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tguharjo/rsch-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tguharjo/rsch-cypress/issues"
+  },
+  "homepage": "https://github.com/tguharjo/rsch-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.6.0",
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "faker": "^5.5.3"
+  }
+}
